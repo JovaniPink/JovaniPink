@@ -27,12 +27,20 @@ Posting thoughts, ideas, and resources on Data, Stats, & Product Development.
  - [Tableau](https://github.com/JovaniPink/tableau)
  - [D3.js](https://github.com/JovaniPink/d3)
 
-#### Other Categories
+#### Developer Competency
+
+> Notes and practice on three main developer competencies.
+
+ - [Programming Principles](https://github.com/JovaniPink/programming-principles)
+ - [Data Structures & Algorithms](https://github.com/JovaniPink/data-structures-and-algorithms)
+ - [Data Science](https://github.com/JovaniPink/data-science)
+
+#### Other Competencies
 
 > Couse work from the [UCF Data Analytics and Visualization Boot Camp](https://bootcamp.ce.ucf.edu/data/).
 
 Unit 1:
-Excel Table Tabular Data
+Excel - Tables - Tabular Data
 
 ● Microsoft Excel 
 ● VBA Scripting 
@@ -44,7 +52,7 @@ Excel Table Tabular Data
  - 2 https://github.com/JovaniPink/stock-analysis-typescript 
 
 Unit 2:
-Python Data Analytics
+Python - Data Analytics
 
 ● Python 
 ● NumPy 
@@ -62,7 +70,7 @@ Python Data Analytics
  - 6 https://github.com/JovaniPink/world-weather-analysis 
 
 Unit 3:
-Databases Data Modeling
+Databases - Data Modeling
 
 ● SQL 
 ● SQLite 
@@ -77,7 +85,7 @@ Databases Data Modeling
  - 9 https://github.com/JovaniPink/surfs-up-dash 
 
 Unit 4:
-Visualization Communicating
+Visualization - Communicating
 
 ● HTML 
 ● CSS 
@@ -96,7 +104,7 @@ Visualization Communicating
  - 15 https://github.com/JovaniPink/mecha-car 
 
 Unit 5:
-Data Engineering & Data Science
+Data Engineering - Data Science - Machine Learning
 
 ● Tableau 
 ● Apache Hadoop & Spark 
