@@ -4,15 +4,11 @@
 
 I'm a Data Analysts and Data Integration specialist living and working in the Greater Orlando area. I currently just finished an extensive UCF Data Analytics and Visualization Boot Camp and exploring new opportunities.
 
-Interests are data analysis and data engineering to drive us to better outcomes. Past experience in front-end development work, quality assurance code testing, data analytics and visualization. Driven to understand the ins and outs of a system and look at problems with healthy suspicion and curiosity collaborative environment. Believes that data analysis and clear communication can bring value to any company.
-
-Below is an outline of my work and failures:
-
-## I’m currently working on ...
+## Below is an outline of my work and failures ...
 
 ### MEASURED STUDIOS
 
-Posting thoughts, ideas, and resources on Data, Stats, & Product Development.
+Driven by design, data, and analytics in creating Minimum Viable Product sites and apps towards finding your idea’s market fit.
 
 ### DATA ENGINEERING
 
@@ -20,6 +16,8 @@ Posting thoughts, ideas, and resources on Data, Stats, & Product Development.
  - [NBA Data](https://github.com/JovaniPink/nba-data)
  - [Face & Mask Data](https://github.com/JovaniPink/mask-data)
  - [Spirits & Cocktail Data](https://github.com/JovaniPink/cocktail-data)
+
+### DATA ANALYSIS
  
 ### DATA VISUALIZATION
 
