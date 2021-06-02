@@ -17,13 +17,15 @@ Driven by design, data, and analytics in creating Minimum Viable Product sites a
  - [Face & Mask Data](https://github.com/JovaniPink/mask-data)
  - [Spirits & Cocktail Data](https://github.com/JovaniPink/cocktail-data)
 
-### DATA ANALYSIS
- 
-### DATA VISUALIZATION
+### DATA ANALYSIS & VISUALIZATION
 
- - [Excel](https://github.com/JovaniPink/excel)
+ - [Excel & Power BI](https://github.com/JovaniPink/excel)
  - [Tableau](https://github.com/JovaniPink/tableau)
  - [D3.js](https://github.com/JovaniPink/d3)
+
+### DATA SCIENCE
+
+ - [Elixir & Data Science](https://github.com/JovaniPink/elixir-data-science)
 
 #### Developer Competency
 
