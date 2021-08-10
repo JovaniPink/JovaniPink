@@ -2,7 +2,7 @@
 
 > I am a collaborative, critical thinker who is proactive about learning and continuing to development myself and others.
 
-I'm a Data Analysts and Data Integration specialist living and working in the Greater Orlando area. I currently just finished an extensive UCF Data Analytics and Visualization Boot Camp and exploring new opportunities.
+Business Analysts and Data Integration with analytical and critical thinking skills to assist in making better decisions. Interests in making information accessible and presented with tools like Tableau and Power BI to drive us to better outcomes. Currently, using the analyst workflow of SQL and dbt; and being urged to understand the ins and outs of a business and look at problems with healthy suspicion and curiosity in a collaborative environment.
 
 ## Below is an outline of my work and failures ...
 
