@@ -1,8 +1,8 @@
 ## Hi there 😃, I'm Jovani Pink.
 
-> I am a collaborative, critical thinker who is proactive about learning and continuing to development myself and others.
+> Analytics Engineer and Data Integration specialists.
 
-Business Analysts and Data Integration with analytical and critical thinking skills to assist in making better decisions. Interests in making information accessible and presented with tools like Tableau and Power BI to drive us to better outcomes. Currently, using the analyst workflow of SQL and dbt; and being urged to understand the ins and outs of a business and look at problems with healthy suspicion and curiosity in a collaborative environment.
+Practicing business awareness, taking business goals or problems and transforming them into a data model with software engineering principles and tools. I am interested in making information accessible for power reporting, predictions, and data movement (activation) with tools like BigQuery, SQL, Python, and CDPs. I am currently using the data engineering workflow of SQL, dbt, and Cloud Functionality (GCP). At the same time, work demands me to understand the ins and outs of the organization’s business goals and look at problems with healthy suspicion and curiosity in a collaborative environment. I enjoy the iterative process within a teamwork environment of working through issues, working on solutions with consistent communication, and sharing the building experience and perspectives.
 
 ## Below is an outline of my work and failures ...
 
@@ -39,7 +39,6 @@ Driven by design, data, and analytics in creating Minimum Viable Product sites a
 
 > Couse work from the [UCF Data Analytics and Visualization Boot Camp](https://bootcamp.ce.ucf.edu/data/).
 
-Unit 1:
 Excel - Tables - Tabular Data
 
 ● Microsoft Excel 
@@ -51,7 +50,6 @@ Excel - Tables - Tabular Data
  - 2 https://github.com/JovaniPink/stock-analysis 
  - 2 https://github.com/JovaniPink/stock-analysis-typescript 
 
-Unit 2:
 Python - Data Analytics
 
 ● Python 
@@ -69,7 +67,6 @@ Python - Data Analytics
  - 5 https://github.com/JovaniPink/pyber-analysis 
  - 6 https://github.com/JovaniPink/world-weather-analysis 
 
-Unit 3:
 Databases - Data Modeling
 
 ● SQL 
@@ -84,7 +81,6 @@ Databases - Data Modeling
  - 9 https://github.com/JovaniPink/surfs-up 
  - 9 https://github.com/JovaniPink/surfs-up-dash 
 
-Unit 4:
 Visualization - Communicating
 
 ● HTML 
@@ -103,7 +99,6 @@ Visualization - Communicating
  - 14 https://github.com/JovaniPink/bikesharing 
  - 15 https://github.com/JovaniPink/mecha-car 
 
-Unit 5:
 Data Engineering - Data Science - Machine Learning
 
 ● Tableau 
