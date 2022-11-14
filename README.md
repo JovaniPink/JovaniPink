@@ -2,7 +2,9 @@
 
 > Analytics Engineer and Data Integration specialists.
 
-Practicing business awareness, taking business goals or problems and transforming them into a data model with software engineering principles and tools. I am interested in making information accessible for power reporting, predictions, and data movement (activation) with tools like BigQuery, SQL, Python, and CDPs. I am currently using the data engineering workflow of SQL, dbt, and Cloud Functionality (GCP). At the same time, work demands me to understand the ins and outs of the organization’s business goals and look at problems with healthy suspicion and curiosity in a collaborative environment. I enjoy the iterative process within a teamwork environment of working through issues, working on solutions with consistent communication, and sharing the building experience and perspectives.
+Analytics Engineer and Data Integration specialists who practice business awareness, taking business goals or problems and transforming them into a data model with software engineering principles and tools. I am interested in making information accessible for analytics, data science, and data movement (activation) with tools like BigQuery, Snowflake, CDPs, Looker, SQL, and Python. I am currently using the data engineering workflow of SQL, dbt Cloud, and Cloud Functionality (GCP/Snowpipe).
+
+At the same time, success demands understanding the ins and outs of the organization’s business goals and looking at problems with healthy suspicion and curiosity in a collaborative and cross-functional environment. I enjoy the Agile process within a teamwork environment of working through issues, working on solutions with consistent communication, and sharing the building experience and perspectives.
 
 ## Below is an outline of my work and failures ...
 
