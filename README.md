@@ -8,9 +8,9 @@ At the same time, success demands understanding the ins and outs of the organiza
 
 ## Below is an outline of my work and failures ...
 
-### MEASURED STUDIOS
+### JovaniPink.com
 
-Driven by design, data, and analytics in creating Minimum Viable Product sites and apps towards finding your idea’s market fit.
+Transform business goals or problems in data models.
 
 ### DATA ENGINEERING
 
@@ -23,6 +23,7 @@ Driven by design, data, and analytics in creating Minimum Viable Product sites a
 
  - [Excel & Power BI](https://github.com/JovaniPink/excel)
  - [Tableau](https://github.com/JovaniPink/tableau)
+ - Looker
  - [D3.js](https://github.com/JovaniPink/d3)
 
 ### DATA SCIENCE
@@ -38,8 +39,6 @@ Driven by design, data, and analytics in creating Minimum Viable Product sites a
  - [Data Science](https://github.com/JovaniPink/data-science)
 
 #### Other Competencies
-
-> Couse work from the [UCF Data Analytics and Visualization Boot Camp](https://bootcamp.ce.ucf.edu/data/).
 
 Excel - Tables - Tabular Data
 
