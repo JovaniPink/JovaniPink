@@ -1,14 +1,14 @@
 # Hi there 😃, I'm Jovani Pink!
 
-> Data Architect.
+> Data & AI Platform Architect | Google Cloud
 
 Experienced Software & Data Engineer specializing in Cloud Architecture, Machine Learning, and AI. I design and deliver scalable, cost-efficient cloud data platforms that turn business objectives into production-ready systems.
 
-My work focuses on data accessibility, MLOps, decision intelligence, and AI agents bridging raw data to actionable insights. I have deep expertise in Snowflake, BigQuery, and Google Cloud, with additional experience in Azure (Cosmos, Service Bus, App Service), SQL, TypeScript, Python, and Go.
+My work focuses on data accessibility, MLOps, decision intelligence, and AI agents that bridge raw data and actionable insights. I have deep expertise in Snowflake, BigQuery, and Google Cloud, with additional experience in Azure (Cosmos, Service Bus, App Service), SQL, TypeScript, Python, and Go.
 
 I partner with clients in regulated, data-intensive industries to build a compliant, balanced platform that balances innovation with governance and cost control.
 
-Beyond technical execution, I take a team-centric, product-minded approach. I work directly with stakeholders to align data strategy with business strategy ,ensuring that teams, tools, and tasks support long-term innovation, safety, and measurable impact.
+Beyond technical execution, I take a team-centric, product-minded approach. I work directly with stakeholders to align data strategy with business strategy, ensuring that teams, tools, and tasks support long-term innovation, safety, and measurable impact.
 
 ## Below is an outline of my work and failures
 
