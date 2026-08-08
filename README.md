@@ -1,117 +1,80 @@
-# Hi there 😃, I'm Jovani Pink!
+# Jovani Pink
 
 > Data & AI Platform Architect | Google Cloud
 
-Experienced Software & Data Engineer specializing in Cloud Architecture, Machine Learning, and AI. I design and deliver scalable, cost-efficient cloud data platforms that turn business objectives into production-ready systems.
+I design software, data, and AI systems that turn business goals into durable,
+production-ready platforms. My work connects cloud architecture, data modeling,
+machine learning, AI agents, and product delivery with explicit operational and
+governance boundaries.
 
-My work focuses on data accessibility, MLOps, decision intelligence, and AI agents that bridge raw data and actionable insights. I have deep expertise in Snowflake, BigQuery, and Google Cloud, with additional experience in Azure (Cosmos, Service Bus, App Service), SQL, TypeScript, Python, and Go.
+[Portfolio](https://jovanipink.com)
 
-I partner with clients in regulated, data-intensive industries to build a compliant, balanced platform that balances innovation with governance and cost control.
+## About
 
-Beyond technical execution, I take a team-centric, product-minded approach. I work directly with stakeholders to align data strategy with business strategy, ensuring that teams, tools, and tasks support long-term innovation, safety, and measurable impact.
+I work with teams in regulated and data-intensive environments to make complex
+systems easier to operate, verify, and evolve. That includes data accessibility,
+MLOps, decision intelligence, platform cost control, and evidence-aware AI
+workflows.
 
-## Below is an outline of my work and failures
+My primary tools include Google Cloud, BigQuery, Snowflake, Azure, SQL,
+TypeScript, Python, and Go. I approach architecture as a product discipline:
+technical choices should support the people, decisions, and long-term operating
+model around the system.
 
-### JovaniPink.com
+## Current work
 
-Transform business goals or problems into data models.
+- [Measured Studios](https://measuredstudios.com) explores durable AI systems,
+  data platforms, and interactive software.
+- [Mainland Dispatch](https://github.com/JovaniPink/Mainland-Dispatch) is an
+  evidence-led research notebook for contextual China and U.S.–China coverage.
 
-### DATA ENGINEERING
+## Selected projects
 
-- [Drug Data](https://github.com/JovaniPink/drug-data)
-- [NBA Data](https://github.com/JovaniPink/nba-data)
-- [Face & Mask Data](https://github.com/JovaniPink/mask-data)
-- [Spirits & Cocktail Data](https://github.com/JovaniPink/cocktail-data)
+| Project | Focus |
+| --- | --- |
+| [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
+| [Awesome Economic Data](https://github.com/JovaniPink/awesome-economic-data) | Curated high-frequency and alternative economic indicators with methodology context. |
+| [Awesome NFL Data](https://github.com/JovaniPink/awesome-nfl-data) | Reviewed NFL data sources, APIs, analytics tools, film resources, and research methods. |
+| [Awesome NBA Data API](https://github.com/JovaniPink/awesome-nba-data-api) | An OpenAPI-driven Flask service for basketball data products. |
+| [Flask Apps](https://github.com/JovaniPink/flask-apps) | Maintained reference applications for APIs, dashboards, authentication, and worker-backed architectures. |
 
-### DATA ANALYSIS & VISUALIZATION
+[Browse all repositories](https://github.com/JovaniPink?tab=repositories).
 
-- [Excel & Power BI](https://github.com/JovaniPink/excel)
-- [Tableau](https://github.com/JovaniPink/tableau)
-- Looker
-- [D3.js](https://github.com/JovaniPink/d3)
+## Core capabilities
 
-### DATA SCIENCE
+- Cloud and data-platform architecture
+- Data modeling, analytics engineering, and decision intelligence
+- Machine-learning and AI-system delivery
+- API, event, and workflow design
+- Production reliability, security, governance, and cost control
+- Technical strategy translated into measurable product outcomes
 
-- [Elixir & Data Science](https://github.com/JovaniPink/elixir-data-science)
+## Engineering principles
 
-#### Developer Competency
+- Prefer evidence over implied readiness: source, tests, CI, deployment, and
+  live behavior are separate claims.
+- Make contracts executable at system boundaries through schemas, validation,
+  tests, and observable failure modes.
+- Keep changes reproducible, dependency-aware, and small enough to review
+  without losing the larger architecture.
+- Build tools around the teams and decisions they serve, not around technology
+  for its own sake.
 
-> Notes and practice on the three main developer competencies.
+## Validation
 
-- [Programming Principles](https://github.com/JovaniPink/programming-principles)
-- [Data Structures & Algorithms](https://github.com/JovaniPink/data-structures-and-algorithms)
-- [Data Science](https://github.com/JovaniPink/data-science)
+This profile repository has no runtime dependencies. Its standard-library
+validator protects the README structure, link syntax, canonical GitHub targets,
+relative files, and duplicate-link contract.
 
-#### Other Competencies
+```bash
+python3 -m unittest discover -s tests -v
+python3 scripts/validate_readme.py README.md
+```
 
-Excel - Tables - Tabular Data
+The validator does not claim that remote content is current or available.
+External links and project descriptions still require manual review when they
+change.
 
-● Microsoft Excel
-● VBA Scripting
-● Statistical Modeling
-● Statistical Forecasting
+## License
 
-- 1 <https://github.com/JovaniPink/kickstarter-analysis>
-- 2 <https://github.com/JovaniPink/stock-analysis>
-- 2 <https://github.com/JovaniPink/stock-analysis-typescript>
-
-Python - Data Analytics
-
-● Python
-● NumPy
-● Pandas
-● Matplotlib
-● Flask
-● APIs
-● JSON
-● Requests
-● Beautiful Soup
-
-- 3 <https://github.com/JovaniPink/election-analysis>
-- 4 <https://github.com/JovaniPink/school-district-analysis>
-- 5 <https://github.com/JovaniPink/pyber-analysis>
-- 6 <https://github.com/JovaniPink/world-weather-analysis>
-
-Databases - Data Modeling
-
-● SQL
-● SQLite
-● PostgreSQL / pgAdmin
-● NoSQL
-● MongoDB
-
-- 7 <https://github.com/JovaniPink/pewlett-hackard-analysis>
-- 8 <https://github.com/JovaniPink/movies-etl>
-- 8 <https://github.com/JovaniPink/amazon-vine-analysis>
-- 9 <https://github.com/JovaniPink/surfs-up>
-- 9 <https://github.com/JovaniPink/surfs-up-dash>
-
-Visualization - Communicating
-
-● HTML
-● CSS
-● Bootstrap
-● JavaScript
-● D3.js
-● Leaflet
-
-- 10 <https://github.com/JovaniPink/mission-to-mars>
-- 10 <https://github.com/JovaniPink/mission-to-mars-dash>
-- 11 <https://github.com/JovaniPink/ufos>
-- 12 <https://github.com/JovaniPink/belly-graphs>
-- 12 <https://github.com/JovaniPink/belly-graphs-dash>
-- 13 <https://github.com/JovaniPink/mapping-earthquakes>
-- 14 <https://github.com/JovaniPink/bikesharing>
-- 15 <https://github.com/JovaniPink/mecha-car>
-
-Data Engineering - Data Science - Machine Learning
-
-● Tableau
-● Apache Hadoop & Spark
-● Machine learning (ML)
-● Data mining
-
-- 17 <https://github.com/JovaniPink/credit-risk-analysis>
-- 18 <https://github.com/JovaniPink/cryptocurrencies>
-- 19 <https://github.com/JovaniPink/neural-network-charity-analysis>
-- 19 <https://github.com/JovaniPink/object-classification>
+This repository is available under the [MIT License](LICENSE).
