@@ -35,7 +35,7 @@ model around the system.
 | [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
 | [Awesome Economic Data](https://github.com/JovaniPink/awesome-economic-data) | Curated high-frequency and alternative economic indicators with methodology context. |
 | [Awesome NFL Data](https://github.com/JovaniPink/awesome-nfl-data) | Reviewed NFL data sources, APIs, analytics tools, film resources, and research methods. |
-| [Awesome NBA Data API](https://github.com/JovaniPink/awesome-nba-data-api) | An OpenAPI-driven Flask service for basketball data products. |
+| [Awesome NBA Data](https://github.com/JovaniPink/awesome-nba-data) | Dated, rights-aware catalog of NBA data sources, tools, and research resources. |
 | [Flask Apps](https://github.com/JovaniPink/flask-apps) | Maintained reference applications for APIs, dashboards, authentication, and worker-backed architectures. |
 
 [Browse all repositories](https://github.com/JovaniPink?tab=repositories).
