@@ -7,7 +7,8 @@ production-ready platforms. My work connects cloud architecture, data modeling,
 machine learning, AI agents, and product delivery with explicit operational and
 governance boundaries.
 
-[Portfolio](https://jovanipink.com)
+[Portfolio](https://jovanipink.com) ·
+[Public evidence standard](https://jovanipink.com/evidence)
 
 ## About
 
@@ -23,8 +24,14 @@ model around the system.
 
 ## Current work
 
-- [Measured Studios](https://measuredstudios.com) explores durable AI systems,
-  data platforms, and interactive software.
+- [Measured Studios](https://measuredstudios.com) is my independent consulting
+  studio. Its entry offer is a bounded Data & AI Systems Review, followed when
+  appropriate by scoped implementation; Studio Lab keeps research prototypes
+  separate from client evidence.
+- [Rehearsal](https://jovanipink.com/posts/simulation-is-not-evidence-rehearsing-consequential-decisions)
+  is a private-source, pre-launch decision-simulation implementation candidate.
+  It generates inspectable synthetic hypotheses; it does not establish customer
+  adoption, external calibration, or real-world outcomes.
 - [Mainland Dispatch](https://github.com/JovaniPink/Mainland-Dispatch) is an
   evidence-led research notebook for contextual China and U.S.–China coverage.
 
@@ -47,7 +54,7 @@ model around the system.
 - Machine-learning and AI-system delivery
 - API, event, and workflow design
 - Production reliability, security, governance, and cost control
-- Technical strategy translated into measurable product outcomes
+- Technical strategy translated into testable product and operating decisions
 
 ## Engineering principles
 
