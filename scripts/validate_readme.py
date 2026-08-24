@@ -28,6 +28,11 @@ REQUIRED_LINKS = {
     "https://measuredstudios.com",
     "LICENSE",
 }
+REQUIRED_POSITIONING = {
+    "Enterprise AI Architect | Data-Intensive Workflows",
+    "AI Workflow Value and Readiness Sprint",
+    "Governed AI Production Pilot",
+}
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$", re.MULTILINE)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)(?:\s+[\"'][^\"']*[\"'])?\)")
@@ -84,6 +89,7 @@ def _validate_link(path: Path, label: str, target: str) -> list[str]:
 def validate_readme(path: Path) -> list[str]:
     """Return all contract violations found in a profile README."""
     text = path.read_text(encoding="utf-8")
+    normalized_text = " ".join(text.split())
     errors: list[str] = []
 
     headings = [(marks, title) for marks, title in HEADING_RE.findall(text)]
@@ -109,6 +115,14 @@ def validate_readme(path: Path) -> list[str]:
     if missing_required:
         errors.append("Missing required links: " + ", ".join(missing_required))
 
+    missing_positioning = sorted(
+        phrase for phrase in REQUIRED_POSITIONING if phrase not in normalized_text
+    )
+    if missing_positioning:
+        errors.append(
+            "Missing required positioning: " + ", ".join(missing_positioning)
+        )
+
     for label, target in links:
         errors.extend(_validate_link(path, label, target))
 
@@ -118,7 +132,7 @@ def validate_readme(path: Path) -> list[str]:
         if len(section_links) < minimum:
             errors.append(f"Section '{section}' must contain at least {minimum} links")
 
-    if "●" in text:
+    if "\u25cf" in text:
         errors.append(
             "Use Markdown list markers instead of decorative bullet characters"
         )

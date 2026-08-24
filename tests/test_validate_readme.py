@@ -45,6 +45,17 @@ class ValidateReadmeTests(unittest.TestCase):
 
         self.assertTrue(any("does not exist" in error for error in errors))
 
+    def test_missing_positioning_is_rejected(self):
+        text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
+        text = text.replace(
+            "Enterprise AI Architect | Data-Intensive Workflows",
+            "Software Architect",
+        )
+
+        errors = self.validate_text(text)
+
+        self.assertTrue(any("Missing required positioning" in error for error in errors))
+
     def test_section_contract_is_enforced(self):
         text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
         text = text.replace("## Core capabilities", "## Skills")
@@ -55,7 +66,7 @@ class ValidateReadmeTests(unittest.TestCase):
 
     def test_legacy_bullets_are_rejected(self):
         text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
-        text += "\n● Placeholder\n"
+        text += "\n\u25cf Placeholder\n"
 
         errors = self.validate_text(text)
 

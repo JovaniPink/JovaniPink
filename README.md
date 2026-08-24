@@ -1,59 +1,62 @@
 # Jovani Pink
 
-> Data & AI Platform Architect | Google Cloud
+> Enterprise AI Architect | Data-Intensive Workflows
 
-I design software, data, and AI systems that turn business goals into durable,
-production-ready platforms. My work connects cloud architecture, data modeling,
-machine learning, AI agents, and product delivery with explicit operational and
-governance boundaries.
+I architect and build data-intensive AI workflows that teams can operate,
+evaluate, and decide to scale. My work closes the gap between a working demo and
+a dependable production system by making source authority, human review,
+failure handling, observability, and release evidence explicit.
 
-[Portfolio](https://jovanipink.com) ·
+[Portfolio](https://jovanipink.com) |
 [Public evidence standard](https://jovanipink.com/evidence)
 
 ## About
 
-I work with teams in regulated and data-intensive environments to make complex
-systems easier to operate, verify, and evolve. That includes data accessibility,
-MLOps, decision intelligence, platform cost control, and evidence-aware AI
-workflows.
+I work with teams in regulated and data-intensive environments where a wrong,
+late, or unsupported result has an operational cost. I connect data and platform
+architecture, AI and agent behavior, workflow state, evaluation, and product
+delivery so the system can be trusted by the people responsible for running it.
 
-My primary tools include Google Cloud, BigQuery, Snowflake, Azure, SQL,
-TypeScript, Python, and Go. I approach architecture as a product discipline:
-technical choices should support the people, decisions, and long-term operating
-model around the system.
+My primary tools include Google Cloud, BigQuery, Snowflake, Azure, SQL, Python,
+TypeScript, and Go. I approach architecture as a product and operating
+discipline: technical choices should support a defined business decision, the
+people accountable for it, and a maintainable path through production.
 
 ## Current work
 
 - [Measured Studios](https://measuredstudios.com) is my independent consulting
-  studio. Its entry offer is a bounded Data & AI Systems Review, followed when
-  appropriate by scoped implementation; Studio Lab keeps research prototypes
-  separate from client evidence.
+  studio. A two-week AI Workflow Value and Readiness Sprint tests whether one
+  high-value workflow justifies a production pilot. A six-to-ten-week Governed
+  AI Production Pilot implements the approved slice inside the client's
+  environment.
 - [Rehearsal](https://jovanipink.com/posts/simulation-is-not-evidence-rehearsing-consequential-decisions)
-  is a private-source, pre-launch decision-simulation implementation candidate.
-  It generates inspectable synthetic hypotheses; it does not establish customer
-  adoption, external calibration, or real-world outcomes.
-- [Mainland Dispatch](https://github.com/JovaniPink/Mainland-Dispatch) is an
-  evidence-led research notebook for contextual China and U.S.–China coverage.
+  is a private-source research prototype with two synthetic workflow scenarios
+  and a shared deterministic kernel. It generates inspectable hypotheses; it
+  does not establish customer adoption, external calibration, or real-world
+  outcomes.
+- [Mainland Dispatch](https://github.com/JovaniPink/Mainland-Dispatch) is a
+  separate public research lane for contextual China and U.S.-China coverage.
+  It is evidence of research method, not consulting delivery or customer impact.
 
 ## Selected projects
 
 | Project | Focus |
 | --- | --- |
+| [JovaniPink Skills](https://github.com/JovaniPink/skills) | Portable agent skills with provenance, security boundaries, trigger evaluation, validation, and cross-client packaging. |
+| [MCP Browser Use](https://github.com/JovaniPink/mcp-browser-use) | Testable FastAPI and Model Context Protocol boundary for browser-agent orchestration, limits, cleanup, and secret redaction. |
+| [Data Playbook](https://github.com/JovaniPink/data-playbook) | Google Cloud data-engineering patterns, including a create-only archive publisher with hashes, generation preconditions, and completion manifests. |
 | [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
-| [Awesome Economic Data](https://github.com/JovaniPink/awesome-economic-data) | Curated high-frequency and alternative economic indicators with methodology context. |
-| [Awesome NFL Data](https://github.com/JovaniPink/awesome-nfl-data) | Reviewed NFL data sources, APIs, analytics tools, film resources, and research methods. |
-| [Awesome NBA Data](https://github.com/JovaniPink/awesome-nba-data) | Dated, rights-aware catalog of NBA data sources, tools, and research resources. |
-| [Flask Apps](https://github.com/JovaniPink/flask-apps) | Maintained reference applications for APIs, dashboards, authentication, and worker-backed architectures. |
+| [Earthquake Atlas](https://github.com/JovaniPink/mapping-earthquakes) | Live MapLibre application for filtering and inspecting recent USGS observations with source-linked details. |
 
 [Browse all repositories](https://github.com/JovaniPink?tab=repositories).
 
 ## Core capabilities
 
-- Cloud and data-platform architecture
-- Data modeling, analytics engineering, and decision intelligence
-- Machine-learning and AI-system delivery
-- API, event, and workflow design
-- Production reliability, security, governance, and cost control
+- Enterprise AI workflow architecture and implementation
+- Data authority, platform integration, and state ownership
+- Agent evaluation, human review, and escalation design
+- API, event, and state-machine contracts
+- Production observability, security, release, and cost controls
 - Technical strategy translated into testable product and operating decisions
 
 ## Engineering principles
