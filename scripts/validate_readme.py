@@ -132,7 +132,7 @@ def validate_readme(path: Path) -> list[str]:
         if len(section_links) < minimum:
             errors.append(f"Section '{section}' must contain at least {minimum} links")
 
-    if "●" in text:
+    if "\u25cf" in text:
         errors.append(
             "Use Markdown list markers instead of decorative bullet characters"
         )

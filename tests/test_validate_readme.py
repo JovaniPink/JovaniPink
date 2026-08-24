@@ -66,7 +66,7 @@ class ValidateReadmeTests(unittest.TestCase):
 
     def test_legacy_bullets_are_rejected(self):
         text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
-        text += "\n● Placeholder\n"
+        text += "\n\u25cf Placeholder\n"
 
         errors = self.validate_text(text)
 
