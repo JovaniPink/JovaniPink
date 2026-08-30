@@ -56,6 +56,28 @@ class ValidateReadmeTests(unittest.TestCase):
 
         self.assertTrue(any("Missing required positioning" in error for error in errors))
 
+    def test_missing_public_project_catalog_is_rejected(self):
+        text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
+        text = text.replace(
+            "[Project catalog](https://jovanipink.com/projects) |\n",
+            "",
+        )
+
+        errors = self.validate_text(text)
+
+        self.assertTrue(any("Missing required links" in error for error in errors))
+
+    def test_stale_earthquake_live_claim_is_rejected(self):
+        text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
+        text = text.replace(
+            "Public MapLibre source for filtering and inspecting recent USGS observations",
+            "Live MapLibre application for filtering and inspecting recent USGS observations",
+        )
+
+        errors = self.validate_text(text)
+
+        self.assertTrue(any("Earthquake Atlas must not be labeled live" in error for error in errors))
+
     def test_section_contract_is_enforced(self):
         text = (REPOSITORY_ROOT / "README.md").read_text(encoding="utf-8")
         text = text.replace("## Core capabilities", "## Skills")

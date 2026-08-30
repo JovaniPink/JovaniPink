@@ -25,6 +25,7 @@ MINIMUM_SECTION_LINKS = {
 }
 REQUIRED_LINKS = {
     "https://jovanipink.com",
+    "https://jovanipink.com/projects",
     "https://measuredstudios.com",
     "LICENSE",
 }
@@ -142,6 +143,10 @@ def validate_readme(path: Path) -> list[str]:
         )
     if "Lots of items" in text:
         errors.append("Remove placeholder checklist copy")
+    if re.search(r"Earthquake Atlas[^\n]*\|\s*Live\s+MapLibre", text, re.IGNORECASE):
+        errors.append(
+            "Earthquake Atlas must not be labeled live without a current verified deployment"
+        )
 
     return list(dict.fromkeys(errors))
 

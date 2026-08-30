@@ -8,6 +8,7 @@ a dependable production system by making source authority, human review,
 failure handling, observability, and release evidence explicit.
 
 [Portfolio](https://jovanipink.com) |
+[Project catalog](https://jovanipink.com/projects) |
 [Public evidence standard](https://jovanipink.com/evidence)
 
 ## About
@@ -38,6 +39,11 @@ people accountable for it, and a maintainable path through production.
   separate public research lane for contextual China and U.S.-China coverage.
   It is evidence of research method, not consulting delivery or customer impact.
 
+The public project catalog keeps project type, evidence context, maturity,
+evidence level, confidentiality, business model, distribution mode, and runtime
+state separate. Repository activity, deployment, commercial intent, and customer
+outcomes are not treated as interchangeable proof.
+
 ## Selected projects
 
 | Project | Focus |
@@ -46,7 +52,7 @@ people accountable for it, and a maintainable path through production.
 | [MCP Browser Use](https://github.com/JovaniPink/mcp-browser-use) | Testable FastAPI and Model Context Protocol boundary for browser-agent orchestration, limits, cleanup, and secret redaction. |
 | [Data Playbook](https://github.com/JovaniPink/data-playbook) | Google Cloud data-engineering patterns, including a create-only archive publisher with hashes, generation preconditions, and completion manifests. |
 | [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
-| [Earthquake Atlas](https://github.com/JovaniPink/mapping-earthquakes) | Live MapLibre application for filtering and inspecting recent USGS observations with source-linked details. |
+| [Earthquake Atlas](https://github.com/JovaniPink/mapping-earthquakes) | Public MapLibre source for filtering and inspecting recent USGS observations with source-linked details. Its prior public deployment returned 404 on August 30, 2026, so no live runtime is claimed. |
 
 [Browse all repositories](https://github.com/JovaniPink?tab=repositories).
 
