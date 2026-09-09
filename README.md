@@ -48,7 +48,7 @@ outcomes are not treated as interchangeable proof.
 
 | Project | Focus |
 | --- | --- |
-| [JovaniPink Skills](https://github.com/JovaniPink/skills) | Portable agent skills with provenance, security boundaries, trigger evaluation, validation, and cross-client packaging. |
+| [JovaniPink Skills](https://github.com/JovaniPink/skills) | Reusable agent workflows for clearer results and resumable work, with separate setup and behavior checks for Codex, Claude, and Antigravity. |
 | [MCP Browser Use](https://github.com/JovaniPink/mcp-browser-use) | Testable FastAPI and Model Context Protocol boundary for browser-agent orchestration, limits, cleanup, and secret redaction. |
 | [Data Playbook](https://github.com/JovaniPink/data-playbook) | Google Cloud data-engineering patterns, including a create-only archive publisher with hashes, generation preconditions, and completion manifests. |
 | [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
