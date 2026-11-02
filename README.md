@@ -48,7 +48,7 @@ outcomes are not treated as interchangeable proof.
 
 | Project | Focus |
 | --- | --- |
-| [JovaniPink Skills](https://github.com/JovaniPink/measured-skills) | Reusable agent workflows for clearer results and resumable work, with separate setup and behavior checks for Codex, Claude, and Antigravity. [Getting Started with JovaniPink Skills](https://jovanipink.com/posts/getting-started-with-jovanipink-skills). |
+| [Measured Skills](https://github.com/JovaniPink/measured-skills) | Task-first instructions for recovering unfinished work, reviewing changes, and maintaining a scoped draft PR. The 0.19 preview keeps package availability, loading, and observed client behavior separate. [Getting Started with Measured Skills](https://jovanipink.com/posts/getting-started-with-jovanipink-skills). |
 | [MCP Browser Use](https://github.com/JovaniPink/mcp-browser-use) | Testable FastAPI and Model Context Protocol boundary for browser-agent orchestration, limits, cleanup, and secret redaction. |
 | [Data Playbook](https://github.com/JovaniPink/data-playbook) | Google Cloud data-engineering patterns, including a create-only archive publisher with hashes, generation preconditions, and completion manifests. |
 | [xstate-python](https://github.com/JovaniPink/xstate-python) | Hierarchical Python statecharts with XState/Stately JSON compatibility and SCXML-oriented semantics. |
